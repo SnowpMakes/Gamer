@@ -1,0 +1,3 @@
+[submodule "GamerAPI"]
+	path = GamerAPI
+	url = https://github.com/SnowpMakes/GamerAPI.git
